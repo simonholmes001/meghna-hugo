@@ -3,9 +3,8 @@ banner:
   enable: true
   bg_Image: images/slider/hero-area.jpg
   icon: ''
-  title: Artificial Intelligence for life sciences
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: artificial intelligence for life sciences
+  content: brought to you by mathisi.ai
   button:
     enable: true
     label: Explore Us
