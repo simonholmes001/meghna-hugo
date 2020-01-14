@@ -3,11 +3,9 @@ banner:
   enable: true
   bg_Image: images/slider/AdobeStock_281830965_Preview.jpeg
   icon: ''
-  title: >+
+  title: 
     the integrated artificial intelligence platform
 
-
-    
     for life science
   content: brought to you by mathisi.ai
   button:
