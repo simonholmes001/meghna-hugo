@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  title : We’re A Digital Design Agency.
+  image : images/about/molecule_1.jpg
+  title : We make your AI research into Biological Systems easier
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_Item : 
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
