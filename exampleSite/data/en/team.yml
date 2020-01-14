@@ -4,8 +4,8 @@ team:
   title : Our Team
   team_Member :
     # team member loop
-    - image : images/team/team-5.jpg
-      name : Wazel Alazhar
+    # - image : images/team/team-5.jpg
+      # name : Wassel Alazhar
       designation : Software Craftsman / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
@@ -20,7 +20,7 @@ team:
         
     # team member loop
     - image : images/team/team-2.jpg
-      name : Michail Kovanis
+      # name : Michail Kovanis
       designation : Data Scientist / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
@@ -35,7 +35,7 @@ team:
         
     # team member loop
     - image : images/team/team-3.jpg
-      name : Naji Alazhar
+      # name : Naji Alazhar
       designation : Data Scientist / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
@@ -49,8 +49,8 @@ team:
         #   link : "#"
         
     # team member loop
-    - image : images/team/team-5.jpg
-      name : Simon Holmes
+    # - image : images/team/team-5.jpg
+      # name : Simon Holmes
       designation : Awesome Dude
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
