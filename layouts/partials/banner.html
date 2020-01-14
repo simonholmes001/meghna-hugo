@@ -11,7 +11,7 @@
 		</div>
 		{{ end }}
 		<h1>{{ .title | markdownify }}</h1>
-		<h1>{{ .title2 | markdownify }}</h1>
+		<h2>{{ .title2 | markdownify }}</h2>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
