@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/molecule_1.jpg
+  image : images/about/molecule_1.jpeg
   title : We make your AI research into Biological Systems easier
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_Item : 
