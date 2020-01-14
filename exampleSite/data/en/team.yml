@@ -4,7 +4,7 @@ team:
   title : Our Team
   team_Member :
     # team member loop
-    - image : images/team/team-1.jpg
+    - image : images/team/team-5.jpg
       name : Wazel Alazhar
       designation : Software Craftsman / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
