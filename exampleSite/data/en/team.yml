@@ -4,9 +4,9 @@ team:
   title : Our Team
   team_Member :
     # team member loop
-    - image : images/team/team-4.jpg
-      name : Lorem
-      designation : Founder
+    - image : images/team/team-5.jpg
+      name : Wassel Alazhar
+      designation : Software Craftsman / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -20,8 +20,8 @@ team:
         
     # team member loop
     - image : images/team/team-2.jpg
-      name : Lorem  
-      designation : Founder
+      name : Michail Kovanis 
+      designation : Data Scientist / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -35,8 +35,8 @@ team:
         
     # team member loop
     - image : images/team/team-3.jpg
-      name : Lorem  
-      designation : Founder
+      name : Naji Alazhar  
+      designation : Data Scientist / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -49,9 +49,9 @@ team:
         #   link : "#"
         
     # team member loop
-    - image : images/team/team-4.jpg
-      name : Lorem
-      designation : Founder
+    - image : images/team/team-5.jpg
+      name : Simon Holmes
+      designation : Awesome Dude
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social_Icon :
         # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
