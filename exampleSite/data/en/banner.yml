@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_Image: images/slider/hero-area.jpg
   icon: ''
-  title: artificial intelligence for life sciences
+  title: integrated artificial intelligence for life sciences
   content: brought to you by mathisi.ai
   button:
     enable: true
