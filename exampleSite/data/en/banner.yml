@@ -8,5 +8,5 @@ banner:
   content: brought to you by mathisi.ai
   button:
     enable: true
-    label: Explore Us
+    label: explore mathisi.ai
     link: "#services"

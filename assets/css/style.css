@@ -501,7 +501,15 @@ a:hover {
   margin-left: 3px;
 }
 
-.hero-area .block h1 h2 {
+.hero-area .block h1 {
+  font-size: 60px;
+  color: #fff;
+  text-transform: lowercase;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.hero-area .block h2 {
   font-size: 60px;
   color: #fff;
   text-transform: lowercase;
