@@ -9,6 +9,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 @import url("https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700");
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,600");
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
 html {
   background-color: #353b43;
@@ -17,7 +18,7 @@ html {
 
 body {
   background-color: #353b43;
-  font-family: "Anaheim", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
 }
@@ -29,12 +30,12 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #afbac4;
 }
 
 p {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 [scroll-behavior=smooth] {
@@ -292,6 +293,7 @@ a:hover {
 
 .title {
   padding-bottom: 60px;
+  text-transform: lowercase;
 }
 
 .title h2 {

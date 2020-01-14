@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_Image: images/slider/hero-area.jpg
   icon: ''
-  title: integrated artificial intelligence
-  content: for life sciencesm, brought to you by mathisi.ai
+  title: the integrated artificial intelligence platform
+  content: for life science, brought to you by mathisi.ai
   button:
     enable: true
     label: Explore Us
