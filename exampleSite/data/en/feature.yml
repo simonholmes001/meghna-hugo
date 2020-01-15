@@ -6,17 +6,17 @@ feature:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_Item : 
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : SEO Optimized
+      title : Cutting edge algorithms
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
     - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      title : Easy Customization
+      title : Something IT Tech
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
     - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      title : SEO Optimized
+      title : Easy Customization
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
     - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      title : Easy Customization
+      title : On Premise or On Cloud
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
