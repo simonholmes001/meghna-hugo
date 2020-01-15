@@ -2,14 +2,14 @@
 skill:
   enable : true
   title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
+  subtitle : Our team has extensive experience and domain knowledge, backed up be leading scientists.
   content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.png
   skill_Item :
-    - name :  Business Development
+    - name :  Algorithms for drug design and protein folding
       percent : 90%
       
-    - name :  Analysis
+    - name :  Integration of all main bio-data bases
       percent : 70%
       
     - name :  Design

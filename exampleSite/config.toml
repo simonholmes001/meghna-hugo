@@ -81,13 +81,13 @@ icon = "ti-facebook"
 link = "#"
 [[params.social_Icon]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/mathisi_ai"
 [[params.social_Icon]]
 icon = "ti-youtube"
 link = "#"
 [[params.social_Icon]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/mathisi/?viewAsMember=true"
 [[params.social_Icon]]
 icon = "ti-dribbble"
 link = "#"

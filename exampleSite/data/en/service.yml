@@ -4,7 +4,7 @@ service:
   title : Our Services
   service_Item :
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : WordPress Theme
+      title : Algorithmic Integration
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
@@ -12,7 +12,7 @@ service:
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      title : Media &amp; Advertisement
+      title : End-to-End Integration
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
