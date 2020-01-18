@@ -1,0 +1,15 @@
+[submodule "proteinFolding/ProteinDescriptor"]
+	path = proteinFolding/ProteinDescriptor
+	url = https://github.com/595693085/ProteinDescriptor.git
+[submodule "proteinFolding/rgn"]
+	path = proteinFolding/rgn
+	url = https://github.com/aqlaboratory/rgn.git
+[submodule "proteinFolding/openprotein"]
+	path = proteinFolding/openprotein
+	url = https://github.com/biolib/openprotein.git
+[submodule "proteinFolding/proteinFolding/pbbx"]
+	path = proteinFolding/proteinFolding/pbbx
+	url = https://github.com/soedinglab/pdbx.git
+[submodule "proteinFolding/pbbx"]
+	path = proteinFolding/pbbx
+	url = https://github.com/soedinglab/pdbx.git
