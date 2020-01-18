@@ -410,7 +410,7 @@ a:hover {
 }
 
 .navigation .logo {
-  padding: 0;
+  padding: -100;
 }
 
 .navigation .navigation-menu li a.active {
